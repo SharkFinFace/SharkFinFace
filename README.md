@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 <h3 align="center">i think</h3>
 
-- I’m currently working on: **to many projects to count and none of them completed**
+- I’m currently working on **to many random projects to count, none of them completed and very few continued to this day**
 
 - I’m currently learning **stuff like games i guess**
 
-- I’m looking to collaborate on: **stuff like games i guess**
+- I’m looking to collaborate on **stuff like games i guess**
 
 - I’m looking for help with **stuff like games i guess**
 
@@ -39,6 +39,7 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
+<p>:)</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
