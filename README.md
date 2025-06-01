@@ -1,46 +1,21 @@
-<!--### Hi there 👋-->
+<h1 align="center">Greetings!</h1>
+<h3 align="center">I'm Shark. Game developer and modder. I think I'm funny.</h3>
 
-<!--
-**SharkFinFace/SharkFinFace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Games:
+- <a href="https://discord.gg/ehcr46vG5X" target="blank"><img style="vertical-align: middle;" src="images/limbless.svg" height="20" width="20" /></a> [Limbless](https://sharkfinface.itch.io/limbless), an ENA-inspired experience made in Godot 3. [Open source](https://github.com/SharkFinFace/Limbless) with [devlogs](https://www.youtube.com/playlist?list=PLl5VMV6zY2AqASPWymuePM4xGJwrou7ak).
+## Mods:
+- <a href="https://discord.gg/ehcr46vG5X" target="blank"><img style="vertical-align: middle;" src="images/celeste.svg" height="20" width="20" /></a> [Prisonbreak](https://gamebanana.com/mods/493262), a Celeste map made in L�nn.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h3 align="center">i think</h3>
-
-- I’m currently working on **to many random projects to count, none of them completed and very few continued to this day**
-
-- I’m currently learning **stuff like games i guess**
-
-- I’m looking to collaborate on **stuff like games i guess**
-
-- I’m looking for help with **stuff like games i guess**
-
-- All of my projects are available at **nowhere**
-
-- I regularly write articles on **nothing**
-
-- Ask me about **stuff like games i guess**
-
-- How to reach me **no**
-
-- Know about my experiences **nowhere**
-
-- Fun fact **I think I am funny**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connections:</h3>
 <p align="left">
+<a href="https://www.youtube.com/@SharkFinFace" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="40" width="50" /></a>
+<a href="https://sharkfinface.itch.io/" target="blank"><img align="center" src="images/itchio.svg" alt="itch.io" height="40" width="50" /></a>
+<a href="https://discord.gg/ehcr46vG5X" target="blank"><img align="center" src="images/discord.svg" alt="Discord" height="40" width="50" /></a>
+<a href="https://gamebanana.com/members/2121206" target="blank"><img align="center" src="images/gamebanana.svg" alt="Gamebanana" height="40" width="50" /></a>
 </p>
-<p>:)</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
-
+<h3 align="left">Engines I use:</h3>
+<p align="left">
+<a href="https://discord.gg/ehcr46vG5X" target="blank"><img align="center" src="images/godot.svg" alt="Godot" height="40" width="50" /></a>
+<a href="https://unity.com/" target="blank"><img align="center" src="images/unity.svg" alt="Unity" height="40" width="50" /></a>
+</p>
