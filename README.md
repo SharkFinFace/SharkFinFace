@@ -2,9 +2,9 @@
 <h3 align="center">I'm Shark. Game developer and modder. I think I'm funny.</h3>
 
 ## Games:
-- <a href="https://discord.gg/ehcr46vG5X" target="blank"><img style="vertical-align: middle;" src="images/limbless.svg" height="20" width="20" /></a> [Limbless](https://sharkfinface.itch.io/limbless), an ENA-inspired experience made in Godot 3. [Open source](https://github.com/SharkFinFace/Limbless) with [devlogs](https://www.youtube.com/playlist?list=PLl5VMV6zY2AqASPWymuePM4xGJwrou7ak).
+- <a href="https://sharkfinface.itch.io/limbless" target="blank"><img style="vertical-align: middle;" src="images/limbless.svg" height="20" width="20" /></a> [Limbless](https://sharkfinface.itch.io/limbless), an ENA-inspired experience made in Godot 3. [Open source](https://github.com/SharkFinFace/Limbless) with [devlogs](https://www.youtube.com/playlist?list=PLl5VMV6zY2AqASPWymuePM4xGJwrou7ak).
 ## Mods:
-- <a href="https://discord.gg/ehcr46vG5X" target="blank"><img style="vertical-align: middle;" src="images/celeste.svg" height="20" width="20" /></a> [Prisonbreak](https://gamebanana.com/mods/493262), a Celeste map made in Lönn.
+- <a href="https://gamebanana.com/mods/493262" target="blank"><img style="vertical-align: middle;" src="images/celeste.svg" height="20" width="20" /></a> [Prisonbreak](https://gamebanana.com/mods/493262), a Celeste map made in Lönn.
 
 <h3 align="left">Connections:</h3>
 <p align="left">
@@ -16,6 +16,6 @@
 
 <h3 align="left">Engines I use:</h3>
 <p align="left">
-<a href="https://discord.gg/ehcr46vG5X" target="blank"><img align="center" src="images/godot.svg" alt="Godot" height="40" width="50" /></a>
+<a href="https://godotengine.org/" target="blank"><img align="center" src="images/godot.svg" alt="Godot" height="40" width="50" /></a>
 <a href="https://unity.com/" target="blank"><img align="center" src="images/unity.svg" alt="Unity" height="40" width="50" /></a>
 </p>
